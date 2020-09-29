@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/first-steps-ReactAdmin/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/first-steps-ReactAdmin/static/js/main.b5ac1d16.chunk.js",
+    "main.js.map": "/first-steps-ReactAdmin/static/js/main.b5ac1d16.chunk.js.map",
+    "runtime-main.js": "/first-steps-ReactAdmin/static/js/runtime-main.b73303b8.js",
+    "runtime-main.js.map": "/first-steps-ReactAdmin/static/js/runtime-main.b73303b8.js.map",
+    "static/js/2.97eb1425.chunk.js": "/first-steps-ReactAdmin/static/js/2.97eb1425.chunk.js",
+    "static/js/2.97eb1425.chunk.js.map": "/first-steps-ReactAdmin/static/js/2.97eb1425.chunk.js.map",
+    "index.html": "/first-steps-ReactAdmin/index.html",
+    "precache-manifest.4a153c0f81dd2cf68601695d301bcf80.js": "/first-steps-ReactAdmin/precache-manifest.4a153c0f81dd2cf68601695d301bcf80.js",
+    "service-worker.js": "/first-steps-ReactAdmin/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/first-steps-ReactAdmin/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.97eb1425.chunk.js.LICENSE.txt": "/first-steps-ReactAdmin/static/js/2.97eb1425.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b73303b8.js",
+    "static/js/2.97eb1425.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b5ac1d16.chunk.js"
+  ]
+}
